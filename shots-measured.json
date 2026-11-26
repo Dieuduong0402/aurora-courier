@@ -1,0 +1,73 @@
+[
+  {
+    "shot": "cover",
+    "seed": 1,
+    "rings": "4/12",
+    "cargo": "1/5",
+    "score": 610,
+    "combo": 2,
+    "elapsed": 27,
+    "credits": 52,
+    "feats": [
+      "First Ring"
+    ],
+    "screen": "play",
+    "route": "Coral Coast",
+    "contract": "Dawn Parcels",
+    "bytes": 186534
+  },
+  {
+    "shot": "coast",
+    "seed": 1,
+    "rings": "1/12",
+    "cargo": "1/5",
+    "score": 185,
+    "combo": 1,
+    "elapsed": 16,
+    "credits": 20,
+    "feats": [
+      "First Ring"
+    ],
+    "screen": "play",
+    "route": "Coral Coast",
+    "contract": "Lighthouse Post",
+    "bytes": 187262
+  },
+  {
+    "shot": "storm",
+    "seed": 1,
+    "rings": "7/16",
+    "cargo": "2/5",
+    "score": 1320,
+    "combo": 1,
+    "elapsed": 42,
+    "credits": 112,
+    "feats": [
+      "First Ring"
+    ],
+    "screen": "play",
+    "route": "Storm Shelf",
+    "contract": "Storm Relay",
+    "bytes": 192936
+  },
+  {
+    "shot": "debrief",
+    "seed": 1,
+    "rings": "12/12",
+    "cargo": "5/5",
+    "score": 2375,
+    "combo": 3,
+    "elapsed": 62,
+    "credits": 460,
+    "feats": [
+      "First Ring",
+      "Full Hold",
+      "Fuel Saver",
+      "Night Owl"
+    ],
+    "screen": "done",
+    "route": "Coral Coast",
+    "contract": "Dawn Parcels",
+    "bytes": 195966
+  }
+]
